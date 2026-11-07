@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 80" fill="none">
+  <!-- Angular Red Slash Backdrop -->
+  <polygon points="8,68 412,12 416,22 12,76" fill="#E60023" />
+  <!-- LEOVAN Geometric Wordmark -->
+  <!-- L -->
+  <path d="M18 14 H36 L30 56 H58 L55 70 H10 Z" fill="#FFFFFF" />
+  <!-- E -->
+  <path d="M68 14 H116 L114 26 H83 L81 36 H108 L106 48 H79 L77 58 H112 L109 70 H60 Z" fill="#FFFFFF" />
+  <!-- O -->
+  <path d="M130 14 H178 L170 70 H122 Z M144 26 L138 58 H156 L162 26 Z" fill="#FFFFFF" />
+  <!-- V -->
+  <path d="M186 14 H204 L210 52 L226 14 H244 L216 70 H198 Z" fill="#E60023" />
+  <!-- A -->
+  <path d="M262 14 H284 L298 70 H280 L277 56 H259 L253 70 H235 Z M270 28 L263 45 H275 Z" fill="#FFFFFF" />
+  <!-- N -->
+  <path d="M310 14 H328 L346 48 L351 14 H368 L360 70 H343 L324 36 L319 70 H302 Z" fill="#FFFFFF" />
+  <!-- Signature Corner Cut -->
+  <polygon points="382,14 406,14 394,42" fill="#E60023" />
+</svg>
